@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/MyTemp/sakapaap/ohj1/ht/AvaruusSeikkailu/AvaruusSeikkailu/Content/kentta1.txt</SourceFile>
+  <SourceTime>2019-12-10T13:15:34.5093214+02:00</SourceTime>
+  <DestFile>C:/MyTemp/sakapaap/ohj1/ht/AvaruusSeikkailu/AvaruusSeikkailu/Content/bin/DesktopGL/kentta1.xnb</DestFile>
+  <DestTime>2019-12-12T11:44:51.8702763+02:00</DestTime>
+  <Importer>TextFileImporter</Importer>
+  <ImporterTime>2019-01-14T20:16:20+02:00</ImporterTime>
+  <Processor>TextFileContentProcessor</Processor>
+  <ProcessorTime>2019-01-14T20:16:20+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
